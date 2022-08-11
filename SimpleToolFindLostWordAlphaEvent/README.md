@@ -1,0 +1,1 @@
+## Simple tool use regex to find lost word in newest news in Alpha blog site then send Lost word found to Telegram.
