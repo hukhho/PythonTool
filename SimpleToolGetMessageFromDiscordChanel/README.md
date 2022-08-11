@@ -1,0 +1,1 @@
+## Simple tool get message from discord chanel
