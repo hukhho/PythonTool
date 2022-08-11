@@ -1,0 +1,1 @@
+## Simple tool create wallet with custom ending
