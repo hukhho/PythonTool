@@ -1,0 +1,1 @@
+## Simple tool find 2 word of lost wallet eth/bsc/... with multi thread 
